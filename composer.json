@@ -1,0 +1,19 @@
+{
+    "name": "anouar/plugin",
+    "description": "This is a awesome plugin example",
+    "type": "project",
+    "license": "Apache",
+    "authors": [
+        {
+            "name": "Anouar Douiyeb",
+            "email": "Douiyeb01@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4":{
+            "Config\\": "./config"
+        }
+    }
+}
