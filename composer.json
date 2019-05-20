@@ -1,5 +1,5 @@
 {
-    "name": "project/plugin",
+    "name": "project/plugin-example",
     "description": "This is a awesome plugin example",
     "type": "project",
     "license": "Apache",
